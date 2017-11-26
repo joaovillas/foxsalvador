@@ -5,7 +5,7 @@
           limit:12,
           resolution:'standard_resolution',
           sortBy:'most-recent',
-          accessToken:'5543573833.1677ed0.d1240e7604cc4d0b9cae1ffa73bf0166',
+          accessToken:'5543573833.1677ed0.cf813cede7d84bd9a09a0eb1f83d6c86',
           template :'<div class ="col-sm-3" style="padding:25px"> <a href="{{link}}"> <img class="img-thumbnail" height="500" width="500" src="{{image}}"/ </a><h6 class="text-center" style="color: black">Data de postagem: <br>{{model.created_time}} {{model.tagsFormatted}}<h6> </div>',
           filter: function(image) {
             
